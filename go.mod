@@ -1,6 +1,6 @@
 module CloudflareIPScanner
 
-go 1.14
+go 1.16
 
 require (
 	github.com/VividCortex/ewma v1.1.1
